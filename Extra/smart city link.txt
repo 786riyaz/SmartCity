@@ -1,0 +1,1 @@
+https://console.firebase.google.com/u/1/project/smart-city-2883e/database/smart-city-2883e/data
