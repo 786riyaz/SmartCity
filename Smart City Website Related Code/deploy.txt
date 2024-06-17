@@ -1,0 +1,11 @@
+google-site-verification=YgUK3JqvcuPHA0C7voRUIH3S2ZP1TNMU2lTasZLZZtg
+
+
+
+npm install -g firebase-tools
+
+firebase login
+
+firebase init
+
+firebase deploy
